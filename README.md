@@ -8,3 +8,6 @@ review: The review text.
 label: Indicates whether the review is positive or not (1 for positive, 0 for negative).
 Objective
 To produce a model that can accurately determine if an incoming review is positive or not based on its textual content.
+
+Data Cleaning - Convert Feature into Word Embeddings & Create Feature Vector from Word Embeddings
+Models explored - Logistic Regression, Random Forrest, Neural Networks 
